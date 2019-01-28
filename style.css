@@ -1,1 +1,8 @@
 /* style css */
+header nav ul {
+	display: flex;
+}
+
+header nav ul li {
+	list-style: none;
+}
